@@ -1,2 +1,2 @@
 # Horiseon
-debug the code
+consolidate the code
